@@ -1,2 +1,2 @@
 [lfs]
-	url = http://127.0.0.1:2375/pscan-r207-f
+	url = http://192.0.2.1:8000/pscan-r207-g
